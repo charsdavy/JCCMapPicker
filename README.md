@@ -43,3 +43,7 @@ You should download `JCCUIKit` via https://github.com/charsdavy/JCCUIKit .
 }
 
 ```
+
+# Screenshot
+
+![Screenshot](./Screenshot.gif)
