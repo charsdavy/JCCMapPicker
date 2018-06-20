@@ -3,7 +3,9 @@ A map picker widget.
 
 # Usage
 
-## `import "JCCUIKit.h"`
+## import library
+
+`import "JCCUIKit.h"`
 
 You should download `JCCUIKit` via https://github.com/charsdavy/JCCUIKit .
 
